@@ -1,1 +1,3 @@
-# tinlynk.github.io
+# TinLynk
+
+Static website for TinLynk
